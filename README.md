@@ -1,2 +1,4 @@
 # CV
-My CV (English/Portuguese) | Meu CV (Inglês/Português) + LaTeX source code
+Curriculum Vitae (Português/English/Español)
+
+Source code in LaTeX available.
